@@ -1,0 +1,4 @@
+project_id = "validasi-absensi"
+
+[functions.attendance-admin]
+verify_jwt = false
