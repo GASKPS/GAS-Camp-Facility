@@ -379,7 +379,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         <p>Cocokkan roster, absensi, dan Live Attendance dalam satu kalender.</p>
         ${wf()}
       </div>
-      <footer class="login-footer"><div class="login-privacy">${N("lock")} File dan hasil tersimpan secara privat di Supabase.</div>${Mn}</footer>
+      <footer class="login-footer"><div class="login-privacy">${N("lock")} File dan hasil tersimpan secara privat.</div>${Mn}</footer>
     </aside>
     <section class="login-main" aria-labelledby="login-title">
       <div class="login-card">
